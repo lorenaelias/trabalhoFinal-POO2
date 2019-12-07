@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../Arcade-Sprite-Based-Framework/Arcade-Sprite-Based-Framework.iml" filepath="$PROJECT_DIR$/../../Arcade-Sprite-Based-Framework/Arcade-Sprite-Based-Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arcade-Sprite-Based-Space-Invaders.iml" filepath="$PROJECT_DIR$/Arcade-Sprite-Based-Space-Invaders.iml" />
     </modules>
   </component>
