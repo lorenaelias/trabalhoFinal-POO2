@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Arcade-Sprite-Based-Framework">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../Arcade-Sprite-Based-Framework" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Arcade-Sprite-Based-Framework/src" />
+    </SOURCES>
+  </library>
+</component>
