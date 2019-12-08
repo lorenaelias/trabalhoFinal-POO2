@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Arcade-Sprite-Based-Framework" level="project" />
+    <orderEntry type="module" module-name="Arcade-Sprite-Based-Framework" />
   </component>
 </module>

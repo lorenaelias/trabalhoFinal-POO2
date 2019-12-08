@@ -13,4 +13,7 @@ public interface Commons extends spriteframework.Commons {
     int CHANCE = 5;
     int WOODY_WIDTH = 15;
     int WOODY_HEIGHT = 10;
+
+    int BOARD_WIDTH = 800;
+    int BOARD_HEIGHT = 600;
 }
