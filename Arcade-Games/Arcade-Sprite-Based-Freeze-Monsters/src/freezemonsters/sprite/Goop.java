@@ -17,8 +17,8 @@ public class Goop extends BadSprite{
         this.x = x;
         this.y = y;
 
-        String bombImg = "images/gosma.png";
-        ImageIcon ii = new ImageIcon(bombImg);
+        String goopImg = "images/gosma.png";
+        ImageIcon ii = new ImageIcon(goopImg);
         setImage(ii.getImage());
     }
 

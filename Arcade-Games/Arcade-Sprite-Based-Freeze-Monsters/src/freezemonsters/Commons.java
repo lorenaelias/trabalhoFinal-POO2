@@ -3,7 +3,7 @@ package freezemonsters;
 public interface Commons extends spriteframework.Commons {
     int GOOP_HEIGHT = 10;
 
-    int MONSTER_HEIGTH = 20;
+    int MONSTER_HEIGHT = 20;
     int MONSTER_WIDTH = 20;
     int MONSTER_INIT_X = 150;
     int MONSTER_INIT_Y = 5;
